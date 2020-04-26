@@ -1,11 +1,17 @@
 cd my-awesome-site
+
 bundle exec jekyll serve
 
+
+
 cd my-awesome-site
+
 git add
+
 git commit -m"~~~"
-git push
-git push -f origin master
+
+git push   ///// git push -f origin master
+
 
 
 git remote -v //현재 원격저장소 확인
